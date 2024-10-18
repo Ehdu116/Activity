@@ -7,9 +7,9 @@ function Skills() {
       <h2 className="text-center">My Skills</h2>
       <ListGroup>
         <ListGroup.Item>JavaScript</ListGroup.Item>
-        <ListGroup.Item>React</ListGroup.Item>
-        <ListGroup.Item>CSS</ListGroup.Item>
-        <ListGroup.Item>Node.js</ListGroup.Item>
+        <ListGroup.Item>Blender</ListGroup.Item>
+        <ListGroup.Item>C#</ListGroup.Item>
+        <ListGroup.Item>Unity</ListGroup.Item>
         <ListGroup.Item>Python</ListGroup.Item>
       </ListGroup>
     </div>
